@@ -16,7 +16,7 @@ function App() {
   return (
     <main>
       <Routes>
-        <Route index path="/" element={<PlayGroundContainer/>} />
+        <Route index path="/pokemon-game" element={<PlayGroundContainer/>} />
         {/* <Route path="/" element={<ViteLandingPage/>} /> */}
         <Route  path="/landingPage" element={<ViteLandingPage/>} />
       </Routes>
