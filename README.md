@@ -6,5 +6,5 @@ Have fun and enjoy. Thank you.
 # Build using
 React + vite
 
-Github deploy link : https://chikku-10.github.io/pokemon-game/
+Github deploy link : https://jiginrajr.github.io/pokemon-game/
 
